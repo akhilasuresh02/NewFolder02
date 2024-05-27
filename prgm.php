@@ -5,3 +5,5 @@ $c=$a+$b;
 echo "addition of 2 number".$c;
 echo "Hello World"
 ?>
+
+// addition gives 30
